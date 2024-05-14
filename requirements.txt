@@ -1,0 +1,9 @@
+langchain
+langchainhub
+streamlit
+bs4
+chromadb
+tiktoken
+unstructured
+chainlit
+libmagic
